@@ -1,0 +1,34 @@
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csprojResolveAssemblyReference.cache
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.dll
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.xml
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csprojResolveAssemblyReference.cache
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.dll
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.xml
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csprojResolveAssemblyReference.cache
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+C:\Users\acere5\Documents\Visual Studio 2012\Projects\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
